@@ -6,7 +6,7 @@ I'm Kohei Noda, a student at Hiroshima University.
 
 - 🏫 I’m currently working on [Hiroshima University](https://www.hiroshima-u.ac.jp/), [Graduate School of Advanced Science and Engineering](https://www.hiroshima-u.ac.jp/adse), [Quantum Chemistry Lab.](https://home.hiroshima-u.ac.jp/minoria/index.html)
 
-- 🎓 I’m currently working/learning about the Relativistic Quantum Chemistry Calculation
+- 🎓 I’m currently working/learning about Relativistic Quantum Chemistry Calculations
 
 - 💻 I work using:
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96.svg?style=plastic)
