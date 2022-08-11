@@ -19,13 +19,14 @@ I'm Kohei Noda, a student at Hiroshima University.
 - ⚙️ I also use and work:
 ![React](https://img.shields.io/badge/-React-282C34.svg?logo=react&style=plastic)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000.svg?logo=next.js&style=plastic)
+![Nestjs](https://img.shields.io/badge/-Nest.js-E0234E.svg?logo=nestjs&style=plastic)
 ![HTML5](https://img.shields.io/badge/-Html5-E34F26.svg?logo=html5&style=plastic)
 ![CSS3](https://img.shields.io/badge/-Css3-1572B6.svg?logo=css3&style=plastic)
 ![Powershell](https://img.shields.io/badge/-Powershell-5391FE.svg?logo=powershell&style=plastic)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933.svg?logo=node.js&style=plastic)
 ![Docker](https://img.shields.io/badge/-Docker-1488C6.svg?logo=docker&style=plastic)
 
-- ⚡ Fun fact: 
+- ⚡ Fun fact:
   - Learn about computer technology
     - Accelerator
     - Parallelization
