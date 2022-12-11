@@ -9,7 +9,7 @@ I'm Kohei Noda, a student at Hiroshima University.
 - 🎓 I’m currently working/learning about Relativistic Quantum Chemistry Calculations
 
 - 💻 I work using:
-![Fortran](https://img.shields.io/badge/-Fortran-734F96.svg?style=plastic)
+![Fortran](https://img.shields.io/badge/-Fortran-734F96.svg?style=plastic&logo=fortran)
 ![CMake](https://img.shields.io/badge/-CMake-064F8C.svg??style=plastic&logo=cmake)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
