@@ -14,6 +14,7 @@ I'm Kohei Noda, a student at Hiroshima University.
 ![Shell](https://img.shields.io/badge/-Shell-blasck?style=plastic&logo=Shell)
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=plastic&logo=github)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_actions-181717?style=plastic&logo=github-actions)
 ![Python](https://img.shields.io/badge/-Python-FFDF76?style=plastic&logo=Python)
 
 - ⚙️ I also use and work:
