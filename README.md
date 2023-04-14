@@ -29,12 +29,10 @@ I'm Kohei Noda, an [Education and Research Support Staff](https://www.hiroshima-
 
 - ⚡ Fun fact:
   - Learn about computer technology
-    - Accelerator
-    - Parallelization
+    - Accelerator (GPGPU)
+    - Parallelization (MPI, OpenMP)
     - TCP/IP
     - Web Frontend Frameworks and so on.
-  - Walking around the University
-    - It is fun to find insects/animals on campus
 
 - 🌱 In the future, I want to learn about ...
   - SQL Database normalization
