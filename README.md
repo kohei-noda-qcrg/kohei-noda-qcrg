@@ -4,6 +4,11 @@ I'm Kohei Noda, an [Education and Research Support Staff](https://www.hiroshima-
 
 <img align="right" width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=kohei-noda-qcrg&theme=dark&show_icons=true" />
 
+- 🔗 Social Links
+  - [zenn.dev](https://zenn.dev/yomogimochi)
+  - [qiita.com](https://qiita.com/_yomogimochi_)
+  - [gitlab.com](https://gitlab.com/kohei-noda)
+
 - 🏫 I’m currently working on [Hiroshima University](https://www.hiroshima-u.ac.jp/), [Graduate School of Advanced Science and Engineering](https://www.hiroshima-u.ac.jp/adse), [Quantum Chemistry Lab.](https://home.hiroshima-u.ac.jp/minoria/index.html)
 
 - 🎓 I’m currently working/learning about Relativistic Quantum Chemistry Calculations
