@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Kohei Noda, an [Education and Research Support Staff](https://www.hiroshima-u.ac.jp/jinji_seido/keiyaku/keiyaku_ninmen#:~:text=%E6%95%99%E8%82%B2%E7%A0%94%E7%A9%B6%E8%A3%9C%E5%8A%A9%E8%81%B7%E5%93%A1) at Hiroshima University.
+I'm Kohei Noda, a software engineer at Saver Corporation.
 
 <img align="right" width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=kohei-noda-qcrg&theme=dark&show_icons=true" />
 
@@ -9,9 +9,7 @@ I'm Kohei Noda, an [Education and Research Support Staff](https://www.hiroshima-
   - [qiita.com](https://qiita.com/_yomogimochi_)
   - [gitlab.com](https://gitlab.com/kohei-noda)
 
-- 🏫 I’m currently working on [Hiroshima University](https://www.hiroshima-u.ac.jp/), [Graduate School of Advanced Science and Engineering](https://www.hiroshima-u.ac.jp/adse), [Quantum Chemistry Lab.](https://home.hiroshima-u.ac.jp/minoria/index.html)
-
-- 🎓 I’m currently working/learning about Relativistic Quantum Chemistry Calculations
+- 🏢 I’m currently working on [Saver Corporation](https://www.saver.jp/)
 
 - 💻 I work using:
 ![Fortran](https://img.shields.io/badge/-Fortran-734F96.svg?style=plastic&logo=fortran)
