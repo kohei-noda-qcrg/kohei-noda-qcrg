@@ -4,6 +4,9 @@ I'm Kohei Noda, a software engineer at Saver Corporation.
 
 <img align="right" width="45%" src="https://github-readme-stats-ouuan.vercel.app/api?username=kohei-noda-qcrg&theme=dark&show_icons=true" />
 
+- 🏠 My website
+  - https://kohei-noda-qcrg.github.io/
+
 - 🔗 Social Links
   - [zenn.dev](https://zenn.dev/yomogimochi)
   - [qiita.com](https://qiita.com/_yomogimochi_)
@@ -18,7 +21,7 @@ I'm Kohei Noda, a software engineer at Saver Corporation.
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_actions-181717?logo=github-actions&style=plastic)
 ![Go](https://img.shields.io/badge/-Go-00ADD8.svg?logo=go&style=plastic&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySql-4479A1.svg?logo=mysql&style=plastic&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1.svg?logo=mysql&style=plastic&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FFDF76?logo=python&style=plastic)
 ![Shell](https://img.shields.io/badge/-Shell-blasck?logo=shell&style=plastic)
 
